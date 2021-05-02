@@ -1,6 +1,6 @@
 ---
 -  name: Generate Router Configuration Files
-   hosts: localost
+   hosts: localhost
    
-   roles
+   roles:
     - router
