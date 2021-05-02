@@ -1,6 +1,6 @@
 ---
--  name: Generate Router Configuration Files
-   hosts: localost
+-  name: Generate Switch Configuration Files
+   hosts: localhost
    
-   roles
+   roles:
     - switch
